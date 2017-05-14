@@ -1,0 +1,45 @@
+/*----------Default HTML Style----------*/
+* {
+  box-sizing: border-box;
+  text-align: center;
+  background: #777;
+}
+
+div {
+    width: 960px;
+    height: 300px;
+    margin: auto;
+}
+
+section {
+    background: #ddd;
+    width: 560px;
+    height: 300px;
+    float: left;
+}
+
+aside {
+    background: #ddd;
+    width: 380px;
+    height: 300px;
+    float: right;
+}
+
+/*----------Class style----------*/
+.hbar {
+    background: #ddd;
+    width: 960px;
+    height: 80px;
+    padding: 30px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+/*-----------ID Style----------*/
+#nav {
+    margin-bottom: 20px;
+}
+
+#footer {
+    margin-top: 20px;
+}
